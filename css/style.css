@@ -12,7 +12,6 @@ h1 {
 
 .widget {
   display: inline-block;
-  border: 1px solid #AAA;
   background: white;
 }
 
@@ -26,7 +25,7 @@ svg {
 }
 
 .bar {
-  fill: #aaa;
+  fill: #0dd;
 }
 
 .value {
